@@ -12,9 +12,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A835440E240CD79200B89626 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A8DB5370240BF5DA00F7CCC0 /* picker.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = picker.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		A8DB5373240BF5DA00F7CCC0 /* picker.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = picker.h; sourceTree = "<group>"; };
-		A8DB5374240BF5DA00F7CCC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A8DB537B240BF68700F7CCC0 /* Service.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Service.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -48,8 +48,8 @@
 		A8DB5372240BF5DA00F7CCC0 /* picker */ = {
 			isa = PBXGroup;
 			children = (
+				A835440E240CD79200B89626 /* Info.plist */,
 				A8DB5373240BF5DA00F7CCC0 /* picker.h */,
-				A8DB5374240BF5DA00F7CCC0 /* Info.plist */,
 				A8DB537B240BF68700F7CCC0 /* Service.swift */,
 			);
 			path = picker;

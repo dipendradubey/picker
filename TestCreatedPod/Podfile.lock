@@ -1,0 +1,16 @@
+PODS:
+  - picker (1.0.0)
+
+DEPENDENCIES:
+  - picker (from `../picker/`)
+
+EXTERNAL SOURCES:
+  picker:
+    :path: "../picker/"
+
+SPEC CHECKSUMS:
+  picker: ba5fd26a49da9823129333d93b9de273869c9d3d
+
+PODFILE CHECKSUM: 87c894851fac681da8fc6ad89271d619da5d9fa2
+
+COCOAPODS: 1.8.4
